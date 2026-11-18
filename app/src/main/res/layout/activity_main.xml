@@ -71,7 +71,7 @@
                     android:layout_height="wrap_content"
                     android:text="Facilities"
                     android:gravity="center"
-                    android:textColor="#000000" />
+                    android:textColor="@android:color/white" />
 
             </LinearLayout>
 
@@ -132,7 +132,7 @@
                     android:layout_height="wrap_content"
                     android:text="Clubs"
                     android:gravity="center"
-                    android:textColor="#000000" />
+                    android:textColor="@android:color/white" />
 
             </LinearLayout>
 
